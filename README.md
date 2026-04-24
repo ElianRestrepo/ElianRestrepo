@@ -1,14 +1,14 @@
 <h1 align="center">Hola 👋 Soy Elian</h1>
 
 <p align="center">
-Desarrollador SAP Business One · Automatización · IA aplicada a procesos empresariales
+Consultor SAP Business One · Automatización · IA aplicada a procesos empresariales
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy desarrollador especializado en **SAP Business One**, enfocado en:
+Soy Consultor **SAP Business One**, enfocado en:
 
 - Automatización de procesos empresariales
 - Integraciones con Service Layer
