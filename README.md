@@ -1,18 +1,20 @@
-<h1 align="center">
-ArpoDev ⚡ Automatización inteligente para SAP Business One
-</h1>
+<p align="center">
+  <img src="assets/banner.png" />
+</p>
+
+<h1 align="center">ArpoDev ⚡</h1>
 
 <p align="center">
-Desarrollo · Integraciones · Bots · IA aplicada a procesos empresariales
+Automatización inteligente para SAP Business One
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/SAP-Business%20One-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Automation-Processes-1F2937?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Bots-Orchestration-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Service%20Layer-Integrations-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI-Business%20Workflows-1D4ED8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SAP-Business%20One-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Service%20Layer-Integrations-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-Processes-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bots-Orchestration-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Business%20Workflows-1D4ED8?style=for-the-badge"/>
 
 </p>
 
@@ -20,36 +22,37 @@ Desarrollo · Integraciones · Bots · IA aplicada a procesos empresariales
 
 # 👋 Hola, soy Elian
 
-Soy Consultor especializado en **automatización sobre SAP Business One**, creando herramientas que reducen trabajo manual y convierten SAP en una plataforma más inteligente, conectada y productiva.
+Desarrollador especializado en **automatización sobre SAP Business One**.
 
-Trabajo principalmente en:
+Construyo herramientas que permiten:
 
-• bots empresariales  
-• integraciones Service Layer  
-• dashboards operativos  
-• automatización de procesos  
-• arquitecturas multiagente  
-• IA aplicada a flujos empresariales  
+✔ eliminar tareas manuales  
+✔ conectar sistemas empresariales  
+✔ ejecutar acciones desde lenguaje natural  
+✔ automatizar procesos operativos  
+✔ convertir SAP B1 en una plataforma inteligente  
+
+Trabajo principalmente con integraciones **Service Layer**, bots empresariales y arquitectura multiagente.
 
 ---
 
 # 🤖 Proyecto principal — Arpy
 
-**Arpy** es un bot orquestador modular diseñado para ejecutar acciones inteligentes dentro de SAP Business One.
+**Arpy** es un bot orquestador modular diseñado para ejecutar acciones dentro de SAP Business One.
 
 Incluye:
 
-✔ dashboard web operativo  
+✔ dashboard operativo  
 ✔ chatbot empresarial  
 ✔ integración con Telegram  
 ✔ CRM integrado  
+✔ ejecución de acciones automatizadas  
 ✔ arquitectura multiagente  
-✔ automatización de tareas repetitivas  
-✔ ejecución de acciones desde lenguaje natural  
+✔ automatización basada en lenguaje natural  
 
-Objetivo:
+🎯 Objetivo:
 
-Transformar SAP Business One en una plataforma automatizable.
+Convertir SAP Business One en una plataforma automatizable.
 
 ---
 
@@ -58,11 +61,11 @@ Transformar SAP Business One en una plataforma automatizable.
 En **ArpoDev** desarrollo soluciones enfocadas en:
 
 Automatización operativa  
-Integraciones empresariales  
-Bots inteligentes  
-Interfaces de control  
+Bots empresariales  
+Integraciones Service Layer  
 Dashboards ejecutivos  
-Servicios backend para SAP B1  
+Interfaces de control SAP B1  
+IA aplicada a procesos reales  
 
 ---
 
@@ -72,25 +75,23 @@ Servicios backend para SAP B1
 
 Script que organiza automáticamente la carpeta Downloads según tipo de archivo.
 
-Repositorio:
-
-https://github.com/ElianRestrepo/OrganizarDescargas
+👉 https://github.com/ElianRestrepo/OrganizarDescargas
 
 ---
 
 # 🌐 Contenido técnico — Automatiza Hoy
 
-Comparto contenido sobre:
+Comparto contenido práctico sobre:
 
 SAP Business One  
 Automatización empresarial  
 Integraciones Service Layer  
 Bots operativos  
-IA aplicada a procesos reales  
+IA aplicada a flujos empresariales  
 
-Marca técnica:
+🚀 Marca técnica:
 
-Automatiza Hoy 🚀
+Automatiza Hoy
 
 ---
 
@@ -108,12 +109,24 @@ Automatiza Hoy 🚀
 
 ---
 
-# ⚡ En qué estoy trabajando actualmente
+# ⚡ Actualmente trabajando en
 
 Arquitectura multiagente con Arpy  
-Automatización inteligente para SAP B1  
-Dashboards operativos empresariales  
-Bots conectados a Service Layer  
+Automatización inteligente SAP B1  
+Bots empresariales conectados a Service Layer  
+Dashboards operativos  
+
+---
+
+# 📊 Estadísticas GitHub
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ElianRestrepo&show_icons=true&theme=default"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElianRestrepo&layout=compact"/>
+
+</p>
 
 ---
 
