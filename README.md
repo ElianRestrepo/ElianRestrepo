@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/banner.png" />
+  <img src="https://raw.githubusercontent.com/ElianRestrepo/ElianRestrepo/main/assets/banner.png" />
 </p>
 
-<h1 align="center">ArpoDev ⚡</h1>
+<h1 align="center">ArpoDev</h1>
 
 <p align="center">
 Automatización inteligente para SAP Business One
@@ -20,82 +20,77 @@ Automatización inteligente para SAP Business One
 
 ---
 
-# 👋 Hola, soy Elian
+## Sobre mí
 
-Desarrollador especializado en **automatización sobre SAP Business One**.
+Soy desarrollador especializado en automatización sobre SAP Business One.
 
-Construyo herramientas que permiten:
+Diseño soluciones que permiten:
 
-✔ eliminar tareas manuales  
-✔ conectar sistemas empresariales  
-✔ ejecutar acciones desde lenguaje natural  
-✔ automatizar procesos operativos  
-✔ convertir SAP B1 en una plataforma inteligente  
+- reducir trabajo manual
+- integrar sistemas empresariales
+- ejecutar acciones desde lenguaje natural
+- automatizar procesos operativos
+- convertir SAP B1 en una plataforma extensible
 
-Trabajo principalmente con integraciones **Service Layer**, bots empresariales y arquitectura multiagente.
+Trabajo principalmente con Service Layer, bots empresariales y arquitectura multiagente.
 
 ---
 
-# 🤖 Proyecto principal — Arpy
+## Proyecto principal — Arpy
 
-**Arpy** es un bot orquestador modular diseñado para ejecutar acciones dentro de SAP Business One.
+Arpy es un bot orquestador modular diseñado para ejecutar acciones dentro de SAP Business One.
 
 Incluye:
 
-✔ dashboard operativo  
-✔ chatbot empresarial  
-✔ integración con Telegram  
-✔ CRM integrado  
-✔ ejecución de acciones automatizadas  
-✔ arquitectura multiagente  
-✔ automatización basada en lenguaje natural  
+- dashboard operativo
+- chatbot empresarial
+- integración con Telegram
+- CRM integrado
+- ejecución de acciones automatizadas
+- arquitectura multiagente
 
-🎯 Objetivo:
+Objetivo:
 
 Convertir SAP Business One en una plataforma automatizable.
 
 ---
 
-# 🧠 Qué construyo en ArpoDev
+## Qué construyo en ArpoDev
 
-En **ArpoDev** desarrollo soluciones enfocadas en:
+En ArpoDev desarrollo soluciones enfocadas en:
 
-Automatización operativa  
-Bots empresariales  
-Integraciones Service Layer  
-Dashboards ejecutivos  
-Interfaces de control SAP B1  
-IA aplicada a procesos reales  
+- automatización operativa
+- bots empresariales
+- integraciones Service Layer
+- dashboards ejecutivos
+- interfaces de control SAP B1
+- IA aplicada a procesos reales
 
 ---
 
-# 📦 Proyectos públicos
+## Proyectos públicos
 
-## 📂 OrganizarDescargas
+### OrganizarDescargas
 
 Script que organiza automáticamente la carpeta Downloads según tipo de archivo.
 
-👉 https://github.com/ElianRestrepo/OrganizarDescargas
+https://github.com/ElianRestrepo/OrganizarDescargas
 
 ---
 
-# 🌐 Contenido técnico — Automatiza Hoy
+## Contenido técnico — Automatiza Hoy
 
 Comparto contenido práctico sobre:
 
-SAP Business One  
-Automatización empresarial  
-Integraciones Service Layer  
-Bots operativos  
-IA aplicada a flujos empresariales  
-
-🚀 Marca técnica:
-
-Automatiza Hoy
+- SAP Business One
+- automatización empresarial
+- integraciones Service Layer
+- bots operativos
+- IA aplicada a procesos reales
 
 ---
 
-# 🧰 Stack principal
+## Stack principal
 
 <p>
 
@@ -109,29 +104,12 @@ Automatiza Hoy
 
 ---
 
-# ⚡ Actualmente trabajando en
-
-Arquitectura multiagente con Arpy  
-Automatización inteligente SAP B1  
-Bots empresariales conectados a Service Layer  
-Dashboards operativos  
-
----
-
-# 📊 Estadísticas GitHub
+## Actividad
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ElianRestrepo&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ElianRestrepo&show_icons=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElianRestrepo&layout=compact"/>
 
 </p>
-
----
-
-# 📫 Conecta conmigo
-
-LinkedIn  
-GitHub  
-Contenido técnico en crecimiento 🚀
