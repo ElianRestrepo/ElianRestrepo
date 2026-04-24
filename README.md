@@ -1,64 +1,76 @@
-<h1 align="center">Hola 👋 Soy Elian</h1>
+<h1 align="center">
+ArpoDev ⚡ Automatización inteligente para SAP Business One
+</h1>
 
 <p align="center">
-Consultor SAP Business One · Automatización · IA aplicada a procesos empresariales
+Desarrollo · Integraciones · Bots · IA aplicada a procesos empresariales
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SAP-Business%20One-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-Processes-1F2937?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bots-Orchestration-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Service%20Layer-Integrations-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Business%20Workflows-1D4ED8?style=for-the-badge" />
+
 </p>
 
 ---
 
-## 🚀 Sobre mí
+# 👋 Hola, soy Elian
 
-Soy Consultor **SAP Business One**, enfocado en:
+Soy Consultor especializado en **automatización sobre SAP Business One**, creando herramientas que reducen trabajo manual y convierten SAP en una plataforma más inteligente, conectada y productiva.
 
-- Automatización de procesos empresariales
-- Integraciones con Service Layer
-- Bots orquestadores
-- Dashboards operativos
-- Chatbots empresariales
-- IA aplicada a flujos reales de negocio
+Trabajo principalmente en:
 
-Actualmente construyendo herramientas que reducen trabajo manual dentro de SAP B1.
+• bots empresariales  
+• integraciones Service Layer  
+• dashboards operativos  
+• automatización de procesos  
+• arquitecturas multiagente  
+• IA aplicada a flujos empresariales  
 
 ---
 
-## 🤖 Proyecto principal: Arpy
+# 🤖 Proyecto principal — Arpy
 
-**Arpy** es un bot orquestador con múltiples agentes diseñado para automatizar procesos dentro de SAP Business One.
+**Arpy** es un bot orquestador modular diseñado para ejecutar acciones inteligentes dentro de SAP Business One.
 
 Incluye:
 
-- Dashboard web
-- Chatbot empresarial
-- Integración con Telegram
-- Ejecución de acciones automáticas
-- CRM operativo
-- Servicios modulares
-- Arquitectura multiagente
+✔ dashboard web operativo  
+✔ chatbot empresarial  
+✔ integración con Telegram  
+✔ CRM integrado  
+✔ arquitectura multiagente  
+✔ automatización de tareas repetitivas  
+✔ ejecución de acciones desde lenguaje natural  
 
-Objetivo: convertir SAP B1 en una plataforma automatizable.
+Objetivo:
 
----
-
-## 🧰 Stack técnico
-
-Trabajo principalmente con:
-
-SAP Business One  
-Service Layer  
-Python  
-Node.js  
-JavaScript  
-Automatización de procesos  
-Bots empresariales  
-Dashboards operativos  
+Transformar SAP Business One en una plataforma automatizable.
 
 ---
 
-## 📦 Proyectos públicos
+# 🧠 Qué construyo en ArpoDev
 
-### 📂 OrganizarDescargas
+En **ArpoDev** desarrollo soluciones enfocadas en:
 
-Script para organizar automáticamente la carpeta Downloads según tipo de archivo.
+Automatización operativa  
+Integraciones empresariales  
+Bots inteligentes  
+Interfaces de control  
+Dashboards ejecutivos  
+Servicios backend para SAP B1  
+
+---
+
+# 📦 Proyectos públicos
+
+## 📂 OrganizarDescargas
+
+Script que organiza automáticamente la carpeta Downloads según tipo de archivo.
 
 Repositorio:
 
@@ -66,36 +78,47 @@ https://github.com/ElianRestrepo/OrganizarDescargas
 
 ---
 
-## 🌐 Contenido técnico
+# 🌐 Contenido técnico — Automatiza Hoy
 
 Comparto contenido sobre:
 
-- Automatización empresarial
-- SAP Business One
-- Integraciones
-- Bots
-- IA aplicada a procesos
-- Productividad para desarrolladores
+SAP Business One  
+Automatización empresarial  
+Integraciones Service Layer  
+Bots operativos  
+IA aplicada a procesos reales  
 
-Marca de contenido:
+Marca técnica:
 
-**Automatiza Hoy**
-
----
-
-## ⚡ Lo que me interesa construir
-
-Herramientas que:
-
-- reduzcan trabajo manual
-- automaticen operaciones repetitivas
-- conecten sistemas empresariales
-- conviertan SAP B1 en una plataforma inteligente
+Automatiza Hoy 🚀
 
 ---
 
-## 📫 Conecta conmigo
+# 🧰 Stack principal
+
+<p>
+
+<img src="https://img.shields.io/badge/SAP-B1-0A66C2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Service-Layer-0284C7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-Automation-1F2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-Apps-F59E0B?style=flat-square"/>
+
+</p>
+
+---
+
+# ⚡ En qué estoy trabajando actualmente
+
+Arquitectura multiagente con Arpy  
+Automatización inteligente para SAP B1  
+Dashboards operativos empresariales  
+Bots conectados a Service Layer  
+
+---
+
+# 📫 Conecta conmigo
 
 LinkedIn  
 GitHub  
-Contenido técnico en progreso 🚀
+Contenido técnico en crecimiento 🚀
